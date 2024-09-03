@@ -162,6 +162,28 @@ def main():
     # Add Refresh button to reload the page
     if st.button("Refresh"):
         st.rerun()
+   
+    st.markdown(
+    """
+    <style>
+    .footer {
+        font-size: 12px;
+        text-align: right;
+        padding: 10px;
+        color: #555;
+        position: fixed;
+        right: 0;
+        bottom: 0;
+        background-color: #f1f1f1;
+        width: auto;
+    }
+    </style>
+    <div class="footer">
+        Developed by Jayron Soares
+    </div>
+    """,
+    unsafe_allow_html=True
+    )
 
 if __name__ == "__main__":
     main()
