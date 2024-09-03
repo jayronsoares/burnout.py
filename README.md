@@ -1,4 +1,4 @@
-# Burnout Assessment Tool
+# Burnout Assessment
 
 ## Overview
 
