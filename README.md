@@ -55,7 +55,3 @@ The tool employs Bayesian methods to provide a nuanced understanding of your bur
 1. **Access the Tool**: [Link to the tool]
 2. **Complete the Assessment**: Answer all questions to get a comprehensive evaluation.
 3. **Review Your Results**: Understand your burnout risk and follow the provided recommendations.
-
-## Contact & Support
-
-For questions or support, please reach out to jayronsoares@yandex.com.
