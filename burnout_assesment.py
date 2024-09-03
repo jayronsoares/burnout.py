@@ -178,7 +178,7 @@ def main():
 
     # Add Refresh button to reload the page
     if st.button("Refresh"):
-        st.rerun()
+        st.experimental_rerun()
    
     st.markdown(
     """
