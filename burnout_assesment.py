@@ -76,7 +76,7 @@ def plot_probabilities(strong, weak):
 
 # Streamlit interface for collecting user input
 def main():
-    st.title("Burnout Assessment Tool")
+    st.title("Burnout Assessment")
     st.markdown(
         """
         <style>
@@ -117,7 +117,7 @@ def main():
         unsafe_allow_html=True
     )
     
-    st.markdown("##### This tool will help you identify if you might be on the path to burnout")
+    st.markdown("##### Discover if You’re on the Path to Burnout")
 
     # Collecting user responses with initial neutral or default values
     responses = [
