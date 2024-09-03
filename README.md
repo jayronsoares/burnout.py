@@ -1,7 +1,3 @@
-Here's an improved version of the GitHub README, incorporating the summarized health features:
-
----
-
 # Burnout Assessment Tool
 
 ## Overview
