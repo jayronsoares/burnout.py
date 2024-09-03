@@ -95,12 +95,29 @@ def main():
             margin: 4px 2px;
             cursor: pointer;
         }
+        .stSelectbox select, .stSlider div {
+            font-size: 18px;
+        }
+        .stMarkdown {
+            font-size: 18px;
+        }
+        .footer {
+            font-size: 12px;
+            text-align: right;
+            padding: 10px;
+            color: #555;
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            background-color: #f1f1f1;
+            width: auto;
+        }
         </style>
         """,
         unsafe_allow_html=True
     )
     
-    st.markdown("### Please answer the following questions:")
+    st.markdown("##### This tool will help you identify if you might be on the path to burnout")
 
     # Collecting user responses with initial neutral or default values
     responses = [
