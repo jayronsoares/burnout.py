@@ -52,6 +52,6 @@ The tool employs Bayesian methods to provide a nuanced understanding of your bur
 
 ## Getting Started
 
-1. **Access the Tool**: [Link to the tool]
+1. **Access the Tool**: [[Link to the tool](https://burnouttoolforyou.streamlit.app/)]
 2. **Complete the Assessment**: Answer all questions to get a comprehensive evaluation.
 3. **Review Your Results**: Understand your burnout risk and follow the provided recommendations.
